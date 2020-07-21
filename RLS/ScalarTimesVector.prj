@@ -1,0 +1,3 @@
+verilog work "ipcore_dir/Mult.v"
+verilog work "CombinatorialMult.v"
+verilog work "scalarByVec.v"

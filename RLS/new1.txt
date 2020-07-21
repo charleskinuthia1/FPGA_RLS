@@ -1,0 +1,27 @@
+Slice Logic Utilization: 
+ Number of Slice Registers:           71672  out of  69120   103% (*) 
+ Number of Slice LUTs:                14894  out of  69120    21%  
+    Number used as Logic:             14824  out of  69120    21%  
+    Number used as Memory:               70  out of  17920     0%  
+       Number used as SRL:               70
+
+Slice Logic Distribution: 
+ Number of LUT Flip Flop pairs used:  84922
+   Number with an unused Flip Flop:   13250  out of  84922    15%  
+   Number with an unused LUT:         70028  out of  84922    82%  
+   Number of fully used LUT-FF pairs:  1644  out of  84922     1%  
+   Number of unique control sets:       642
+
+IO Utilization: 
+ Number of IOs:                           4
+ Number of bonded IOBs:                   4  out of    640     0%  
+
+Specific Feature Utilization:
+ Number of Block RAM/FIFO:               87  out of    148    58%  
+    Number using Block RAM only:         87
+ Number of BUFG/BUFGCTRLs:                2  out of     32     6%  
+
+WARNING:Xst:1336 -  (*) More than 100% of Device resources are used
+
+---------------------------
+Partition Resource Summary:

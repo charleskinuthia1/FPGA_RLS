@@ -1,0 +1,17 @@
+# Output products list for <ChipScopeController>
+ChipScopeController.asy
+ChipScopeController.constraints\ChipScopeController.ucf
+ChipScopeController.constraints\ChipScopeController.xdc
+ChipScopeController.gise
+ChipScopeController.ngc
+ChipScopeController.sym
+ChipScopeController.ucf
+ChipScopeController.v
+ChipScopeController.veo
+ChipScopeController.xco
+ChipScopeController.xdc
+ChipScopeController.xise
+ChipScopeController_flist.txt
+ChipScopeController_readme.txt
+ChipScopeController_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

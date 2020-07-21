@@ -1,0 +1,19 @@
+# Output products list for <ChipScopeResult>
+ChipScopeResult.asy
+ChipScopeResult.cdc
+ChipScopeResult.constraints\ChipScopeResult.ucf
+ChipScopeResult.constraints\ChipScopeResult.xdc
+ChipScopeResult.gise
+ChipScopeResult.ncf
+ChipScopeResult.ngc
+ChipScopeResult.sym
+ChipScopeResult.ucf
+ChipScopeResult.v
+ChipScopeResult.veo
+ChipScopeResult.xco
+ChipScopeResult.xdc
+ChipScopeResult.xise
+ChipScopeResult_flist.txt
+ChipScopeResult_readme.txt
+ChipScopeResult_xmdf.tcl
+_xmsgs\pn_parser.xmsgs
